@@ -36,6 +36,13 @@
 
 **Practice Normalisation**
 
----
 
----
+
+
+# MySQL(Queries)
+
+**38.4 - 4. Creating DB**
+
+**38.5 - 5. CREATING TABLES**
+
+**38.6 - 6. INSERT SELECT WHERE DELETE and UPDATE**
