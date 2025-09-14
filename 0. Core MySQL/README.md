@@ -46,3 +46,13 @@
 **38.5 - 5. CREATING TABLES**
 
 **38.6 - 6. INSERT SELECT WHERE DELETE and UPDATE**
+
+****
+
+****
+
+****
+
+****
+
+****
