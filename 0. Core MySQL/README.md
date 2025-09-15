@@ -56,3 +56,21 @@
 **38.10 - 10. Few more handy queries**
 
 **38.11 - 11. JOINS basic**
+
+**38.12 - 12. JOINS types**
+
+**38.13 - 13. JOINS on multiple tables**
+
+**38.14 - 14. Exploring MYSQL Workbench**
+
+**38.15 - 15. ALTER TABLE**
+
+**38.16 - 16. DISTINCT QUERY**
+
+**38.17 - 17. Aggregation Queries**
+
+**38.18 - 18. GROYP BY**
+
+**38.19 - 19. HAVING**
+
+**38.20 - 20. Workbench**
