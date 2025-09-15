@@ -47,12 +47,12 @@
 
 **38.6 - 6. INSERT SELECT WHERE DELETE and UPDATE**
 
-****
+**38.7 - 7. Like query for string matching**
 
-****
+**38.8 - 8. ORDER BY**
 
-****
+**38.9 - 9. Pagination using LIMIT and OFFSET**
 
-****
+**38.10 - 10. Few more handy queries**
 
-****
+**38.11 - 11. JOINS basic**
