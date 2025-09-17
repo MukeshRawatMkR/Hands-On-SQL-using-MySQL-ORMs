@@ -1,5 +1,15 @@
 # Must know In MySQL 
 
+**Topics to learn**
+- 1. LENGTH
+- 2. CHAR_LENGTH
+- 3. UNION
+
+
+
+
+
+
 **Theory plus Query Topics**
 1. Fundamentals
 
