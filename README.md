@@ -4,8 +4,9 @@
 - 1. LENGTH
 - 2. CHAR_LENGTH
 - 3. UNION
-
-
+- 4. In MySQL there are only three constructs for branching— 'CASE', 'IF()', and function-based tricks like 'ELT()'/'FIELD()'.
+- 5. Run -> SELECT "MUKESH RAWAT";
+- six. 
 
 
 
