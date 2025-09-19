@@ -6,8 +6,10 @@
 - 3. UNION
 - 4. In MySQL there are only three constructs for branching— 'CASE', 'IF()', and function-based tricks like 'ELT()'/'FIELD()'.
 - 5. Run -> SELECT "MUKESH RAWAT";
-- six. 
-
+- six. CONCAT, LEFT(-,-), LOWER(LEFT(-,-)), SUBSTRING(-,-)
+- 7. LOWER()
+- 8. SUBSTR(-,-)
+- 9. 
 
 
 
